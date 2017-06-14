@@ -39,46 +39,43 @@
 > 工作经历
 
 <table cellpadding="0" cellspacing="0" rules="rows" style="width:100%">
-	<tr style="background:#fff">
-		<td colspan="2" style="font-weight:bold">那片田互联网科技（北京）有限公司</td>
-		<td>2016.05 - 2017.06</td>
-	</tr>
-	<tr style="background:#fff">
-		<td>所在部门: 技术部</td>
-		<td>所任职位: 技术经理</td>
-		<td>管理人数: 7人</td>
-	</tr>
-	<tr style="background:#f5f5f5"><td colspan="3"></td></tr>
-
-	<tr style="background:#fff">
-		<td colspan="2" style="font-weight:bold">宇德（北京）投资管理有限公司</td>
-		<td>2015.09 - 2016.05</td>
-	</tr>
-	<tr style="background:#fff">
-		<td>所在部门: 技术部</td>
-		<td>所任职位: PHP开发</td>
-		<td></td>
-	</tr>
-	<tr style="background:#f5f5f5"><td colspan="3"></td></tr>
-
-	<tr style="background:#fff">
-		<td colspan="2" style="font-weight:bold">魔力爱普（北京）互联网技术有限公司</td>
-		<td>2014.12 - 2015.09</td>
-	</tr>
-	<tr style="background:#fff">
-		<td>所在部门: 技术部</td>
-		<td>所任职位: PHP开发</td>
-		<td></td>
-	</tr>
-	<tr style="background:#f5f5f5"><td colspan="3"></td></tr>
-
-	<tr style="background:#fff">
-		<td colspan="2" style="font-weight:bold">北京宝盈科技互动有限公司</td>
-		<td>2013.07 - 2014.11</td>
-	</tr>
-	<tr style="background:#fff">
-		<td>所在部门: 技术部</td>
-		<td>所任职位: PHP开发</td>
-		<td></td>
-	</tr>
+  <tr style="background:#fff">
+    <td colspan="2" style="font-weight:bold">那片田互联网科技（北京）有限公司</td>
+    <td>2016.05 - 2017.06</td>
+  </tr>
+  <tr style="background:#fff">
+    <td>所在部门: 技术部</td>
+    <td>所任职位: 技术经理</td>
+    <td>管理人数: 7人</td>
+  </tr>
+  <tr style="background:#f5f5f5"><td colspan="3"></td></tr>
+  <tr style="background:#fff">
+    <td colspan="2" style="font-weight:bold">宇德（北京）投资管理有限公司</td>
+    <td>2015.09 - 2016.05</td>
+  </tr>
+  <tr style="background:#fff">
+    <td>所在部门: 技术部</td>
+    <td>所任职位: PHP开发</td>
+    <td></td>
+  </tr>
+  <tr style="background:#f5f5f5"><td colspan="3"></td></tr>
+  <tr style="background:#fff">
+    <td colspan="2" style="font-weight:bold">魔力爱普（北京）互联网技术有限公司</td>
+    <td>2014.12 - 2015.09</td>
+  </tr>
+  <tr style="background:#fff">
+    <td>所在部门: 技术部</td>
+    <td>所任职位: PHP开发</td>
+    <td></td>
+  </tr>
+  <tr style="background:#f5f5f5"><td colspan="3"></td></tr>
+  <tr style="background:#fff">
+    <td colspan="2" style="font-weight:bold">北京宝盈科技互动有限公司</td>
+    <td>2013.07 - 2014.11</td>
+  </tr>
+  <tr style="background:#fff">
+    <td>所在部门: 技术部</td>
+    <td>所任职位: PHP开发</td>
+    <td></td>
+  </tr>
 </table>
