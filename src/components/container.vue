@@ -3,7 +3,7 @@
         <div class="page">
             <section class="head">
                 <div class="resume-name">刘通简历</div>
-                <div class="aims">求职目标: PHP开发工程师 / 工资面议 / 大专 / 全职</div>
+                <div class="aims">求职目标: PHP开发工程师 / 20K / 大专 / 全职</div>
             </section>
 
             <section class="base-info">
@@ -33,11 +33,6 @@
                 <div class="tag">教育经历</div>
                 <div class="info">
                     <div class="row">
-                        <div class="item">2007.09 - 2010.06</div>
-                        <div class="item">院校: 满城区职业技术教育中心</div>
-                        <div class="item">专业: 计算机应用</div>
-                    </div>
-                    <div class="row">
                         <div class="item">2010.09 - 2013.06</div>
                         <div class="item">院校: 石家庄职业技术学院</div>
                         <div class="item">专业: 信息安全技术</div>
@@ -49,13 +44,24 @@
                 <div class="tag">工作经历</div>
                 <div class="info">
                     <div class="row job">
+                        <div class="item name">北京牧游科技有限公司</div>
+                        <div class="item"></div>
+                        <div class="item period">2017.07 - 2017.08</div>
+                    </div>
+                    <div class="row intro">
+                        <div class="item">所在部门: 技术部</div>
+                        <div class="item">所任职位: PHP开发</div>
+                        <div class="item"></div>
+                    </div>
+
+                    <div class="row job">
                         <div class="item name">那片田互联网科技（北京）有限公司</div>
                         <div class="item"></div>
                         <div class="item period">2016.05 - 2017.06</div>
                     </div>
                     <div class="row intro">
                         <div class="item">所在部门: 技术部</div>
-                        <div class="item">所任职位: 技术经理</div>
+                        <div class="item">所任职位: 技术组长</div>
                         <div class="item">管理人数: 7人</div>
                     </div>
 
@@ -82,13 +88,13 @@
                     </div>
 
                     <div class="row job">
-                        <div class="item name">宇德（北京）投资管理有限公司</div>
+                        <div class="item name">北京宝盈科技互动有限公司</div>
                         <div class="item"></div>
                         <div class="item period">2013.07 - 2014.11</div>
                     </div>
                     <div class="row intro">
                         <div class="item">所在部门: 技术部</div>
-                        <div class="item">所任职位: PHP研发</div>
+                        <div class="item">所任职位: PHP开发</div>
                         <div class="item"></div>
                     </div>
                 </div>
@@ -132,32 +138,11 @@
                         </div>
                     </div>
 
-                    <div class="item">
-                        <div class="name">TEAdmin后台开发框架【个人项目】</div>
-                        <div class="trust"></div>
-                        <div class="significance"></div>
-                        <div class="intro">项目介绍: TEAdmin（admin.teadmin.cc）是基于 ThinkPHP5.0.7 &amp; PixelAdmin2.3.1 开发的基础后台开发框架，具备现代化友好的界面设计、完美的权限控制等基础功能，方便基于框架进行项目开发。目前框架处于不断完善阶段，会有更多基础功加入。</div>
-                    </div>
-
                     <div class="item next-page">
-                        <div class="name">满城果品【个人项目】</div>
-                        <div class="trust"></div>
-                        <div class="significance"></div>
-                        <div class="intro">项目介绍: 满城果品是基于VUE2开发的生鲜商城，后台基于TEAdmin开发。目前处于开发阶段。</div>
-                    </div>
-
-                    <div class="item">
-                        <div class="name">沧州爱尚装饰【个人项目】</div>
-                        <div class="trust"></div>
-                        <div class="significance"></div>
-                        <div class="intro">项目介绍: 沧州爱尚装饰是基于VUE2开发的VR样板间展示应用，VR使用krpano制作，客户可在线报装，系统自动通过微信消息通知微信客服人员。</div>
-                    </div>
-
-                    <div class="item">
-                        <div class="name">☆ 刘通简历 ☆</div>
-                        <div class="trust"></div>
-                        <div class="significance">项目特点: 本简历是基于HTML开发，方便直接打印或者打印成PDF文件，相比Word更易编辑和排版。</div>
-                        <div class="intro">项目介绍: 本简历使用HTML制作，使用CSS Print @PAGE规则实现A4纸规格。</div>
+                        <div class="name">牧游科技数据分析平台</div>
+                        <div class="trust">项目职责: 数据分析采集脚本开发、数据API开发、报表展示开发、游戏资源打包程序开发</div>
+                        <div class="significance">项目意义: 游戏数据分析是对开发者、数据分析人员、运营人员、管理层对游戏进行分析的重要参考。</div>
+                        <div class="intro">项目介绍: 分析平台分为三个部分，前端、API、数据分析采集。前端只负责展示，基于BlurAdmin开发；API和数据采集使用lumen开发。</div>
                     </div>
                 </div>
             </section>
