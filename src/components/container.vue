@@ -3,7 +3,7 @@
         <div class="page">
             <section class="head">
                 <div class="resume-name">刘通简历</div>
-                <div class="aims">求职目标: PHP开发工程师 / 20K / 大专 / 全职</div>
+                <div class="aims">求职目标: PHP/Vue工程师 / 18K / 大专 / 全职</div>
             </section>
 
             <section class="base-info">
@@ -12,10 +12,10 @@
                     <div class="row">
                         <div class="item">姓　　名: 刘通</div>
                         <div class="item">性　　别: 男</div>
-                        <div class="item">年　　龄: 26</div>
+                        <div class="item">年　　龄: 28</div>
                     </div>
                     <div class="row">
-                        <div class="item">工作经验: 4年</div>
+                        <div class="item">工作经验: 5年</div>
                         <div class="item">工作状态: 离职</div>
                         <div class="item">到岗时间: 随时</div>
                     </div>
@@ -25,7 +25,7 @@
             <section class="assess-info">
                 <div class="tag">自我评价</div>
                 <div class="info">
-                    精通PHP语言；熟练使用MySQL；熟练掌握ThinkPHP框架；了解Redis；了解MongoDB；熟练使用Linux，能独立搭建LAMP运行环境并了解Nginx；熟练掌握HTML5+CSS3+JavaScript；熟练掌握Bootstrap框架；熟练掌握VUE2.0框架；熟练使用GIT&amp;SVN版本控制；掌握WEB前端和PHP相关调试工具；对PHP+MySQL在Windows/Linux环境下的开发、调试有深入的认识。有1年团队管理经验，管理7人开发成员。
+                    精通PHP语言；熟练使用MySQL；熟练掌握ThinkPHP框架；熟悉Redis；熟练使用Linux，能独立搭建LAMP运行环境并了解Nginx；熟练掌握HTML5+CSS3+JavaScript；熟练掌握Bootstrap框架；熟练掌握VUE.JS框架；熟练使用GIT版本控制；掌握WEB前端和PHP相关调试工具；对PHP+MySQL在Windows/Linux环境下的开发、调试有深入的认识。有1年团队管理经验，管理7人开发成员。
                 </div>
             </section>
 
@@ -138,7 +138,7 @@
                         </div>
                     </div>
 
-                    <div class="item next-page">
+                    <div class="item">
                         <div class="name">牧游科技数据分析平台</div>
                         <div class="trust">项目职责: 数据分析采集脚本开发、数据API开发、报表展示开发、游戏资源打包程序开发</div>
                         <div class="significance">项目意义: 游戏数据分析是对开发者、数据分析人员、运营人员、管理层对游戏进行分析的重要参考。</div>
@@ -176,7 +176,7 @@
 
 .container {
     .page {
-        padding: 53px 66px;
+        padding: 20px 33px;
         margin: 0 auto;
         width: 794px;
         height: 1123px;

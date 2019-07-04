@@ -23,7 +23,7 @@
     }
     @font-face {
         font-family: yuanti;
-        src: url(/static/yuanti.ttf);
+        src: url(/assets/yuanti.ttf);
     }
     #app {
         font-family: yuanti;
