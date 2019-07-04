@@ -10,14 +10,14 @@
                 <div class="tag">基本信息</div>
                 <div class="info">
                     <div class="row">
-                        <div class="item">姓　　名: 刘通</div>
-                        <div class="item">性　　别: 男</div>
-                        <div class="item">年　　龄: 28</div>
+                        <div class="item">姓&emsp;&emsp;名: 刘通</div>
+                        <div class="item">性&emsp;&emsp;别: 男</div>
+                        <div class="item">年&emsp;&emsp;龄: 28</div>
                     </div>
                     <div class="row">
                         <div class="item">工作经验: 5年</div>
                         <div class="item">工作状态: 离职</div>
-                        <div class="item">到岗时间: 随时</div>
+                        <div class="item">到岗时间: --</div>
                     </div>
                 </div>
             </section>
